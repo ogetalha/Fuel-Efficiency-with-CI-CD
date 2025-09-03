@@ -1,4 +1,4 @@
-# 🚗 Fuel Efficiency CI/CD Pipeline  
+# Fuel Efficiency CI/CD Pipeline  
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)  
 [![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)](https://github.com/YOUR-USERNAME/fuel-efficiency-ci-cd/actions)  
@@ -8,7 +8,7 @@ This repo demonstrates **real-world software engineering practices**: automated 
 
 ---
 
-## ✨ Features  
+## Features  
 -  Calculate **fuel efficiency** (`distance / fuel`) in km per liter  
 -  Compute **average efficiency** across multiple trips  
 -  Identify the **best (most efficient) trip**  
@@ -18,7 +18,7 @@ This repo demonstrates **real-world software engineering practices**: automated 
 
 ---
 
-## ⚙️ CI/CD Pipeline  
+## CI/CD Pipeline  
 This project uses **GitHub Actions** for continuous integration & delivery:  
 
 1. **Linting** → checks code quality with Flake8  
@@ -30,7 +30,7 @@ Every push to `main` triggers the pipeline automatically
 
 ---
 
-## 🚀 Quickstart  
+## Quickstart  
 
 ### Clone the repo  
 ```bash
