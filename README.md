@@ -1,7 +1,11 @@
 # Fuel Efficiency CI/CD Pipeline  
 
-[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)  
-[![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)](https://github.com/YOUR-USERNAME/fuel-efficiency-ci-cd/actions)  
+[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
+
+> **Work in Progress – For Personal Learning Only**  
+> This project exists solely to help me understand how CI/CD pipelines work through Github Actions
+
+## Summary
 
 A Python project that calculates **fuel efficiency and trip statistics** with a fully integrated **CI/CD pipeline** powered by GitHub Actions.  
 This repo demonstrates **real-world software engineering practices**: automated testing, linting, packaging, and deployment-ready builds.  
